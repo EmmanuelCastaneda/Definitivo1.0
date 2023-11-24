@@ -1,0 +1,47 @@
+li{
+    list-style: none;
+    width: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80%;
+    font-size: medium;
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    gap: 3rem;
+    padding: 1% 1% 1% 1% ;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    /* position: fixed;
+    z-index: 1; */
+    border-bottom: 0.5px solid gray;
+    outline: 0px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.options{
+    font-size: 80%;
+
+}
+.options:hover{
+    border-bottom: 0.5px solid black;
+    outline: 0px;
+}
+.search{
+    width: 7%;
+    float: right;
+}
+
+.centro{
+    display: flex;
+    gap: 2rem;
+    width: 100%;
+    padding: 0.5% 0% 0% 0%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

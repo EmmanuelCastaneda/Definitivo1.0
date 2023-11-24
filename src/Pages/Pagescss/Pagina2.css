@@ -1,0 +1,12 @@
+.Canasta{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5rem;
+    padding: 0% 0% 0% 0%;
+}
+
+.Ropa {
+    padding: 2% 2% 2% 2%;
+    
+}

@@ -1,0 +1,11 @@
+
+.Formulario{
+    /* background-image: url(../Pagesimg/OIP.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%; */
+    display: flex;
+    justify-content: center;
+    padding: 7% 0% 0% 0%;
+}
